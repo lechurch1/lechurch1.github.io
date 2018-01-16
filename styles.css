@@ -1,4 +1,4 @@
-@import url(https://fonts/googleapis.com/css?family=montserrat: 400,700);
+@import url(https://fonts/googleapis.com/css?family=montserrat:400,700);
 body {
   margin: 0;
   color: #555;
@@ -88,3 +88,4 @@ h1, h2, h3, h4 {
 }
 p {
   line-height: 1.5;
+}
